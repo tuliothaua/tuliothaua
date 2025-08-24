@@ -1,6 +1,6 @@
 ## 🐱‍👤 Túlio Thauã Dutra >>
 
-### **`Futuro Desenvolvedor de Sofware`**
+### **`Futuro Desenvolvedor de Software`**
 
 #### *Future Software Engineer* 
 ___
@@ -9,11 +9,11 @@ ___
 
 
    // **___My portfolio is below – contact me!___**                                                                        
-   <div style="display: flex; gap: 10px;">
-  <a href="https://github.com/tuliothaua/portfolio-thaua.git" target="_blank">
-    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" />
+   <div style="display: flex; gap: 15px;">
+  <a href="https://github.com/tuliothaua/portfolio-thaua.git">
+    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
   </a> 
-  <a href="https://www.linkedin.com/in/tuliothauadutra" target="_blank">
+  <a href="https://www.linkedin.com/in/tuliothauadutra">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
     </div>
