@@ -10,15 +10,14 @@ ___
 
    // **___My portfolio is below – contact me!___**                                                                        
    <div style="display: flex; gap: 15px;">
-  <a href="https://github.com/tuliothaua/portfolio-thaua.git">
+  <a href="https://github.com/tuliothaua/portfolio-thaua.git"> 
     <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
   </a> 
-  <a href="https://www.linkedin.com/in/tuliothauadutra">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/tuliothauadutra"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
     </div>
    
-    ![tuliothaua's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuliothaua&theme=dark&show_icons=true&hide_border=false&layout=compact) 
+    ![tuliothaua's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuliothaua&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact) 
 ___
 
 ### Tools & Langs I’ve used
