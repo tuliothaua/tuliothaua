@@ -2,24 +2,25 @@
 
 ### **`Futuro Desenvolvedor de Software`**
 
-#### *Future Software Engineer* 
-___
-- I'm learning programming, I like to make projects and code, and I'm working to turn this into my career! 
+#### _Future Software Engineer_
 
+---
 
+-   I'm learning programming, I like to make projects and code, and I'm working to turn this into my career!
 
-   // **___My portfolio is below – contact me!___**                                                                        
-   <div style="display: flex; gap: 15px;">
-  <a href="https://github.com/tuliothaua/portfolio-thaua.git">
-    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
-  </a> 
-  <a href="https://www.linkedin.com/in/tuliothauadutra">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+    // ****_My portfolio is below – contact me!_****
+       <div style="display: flex; gap: 40px;">
+      <a href="https://tuliothaua.github.io/portfolio-thaua/">
+        <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
+      </a> 
+      <a href="https://www.linkedin.com/in/tuliothauadutra">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
     </div>
-   
-    ![tuliothaua's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuliothaua&theme=dark&show_icons=true&hide_border=false&layout=compact) 
-___
+       
+      ![tuliothaua's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuliothaua&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact)
+
+---
 
 ### Tools & Langs I’ve used
 
@@ -32,4 +33,5 @@ ___
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-___
+
+---
