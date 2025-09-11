@@ -1,4 +1,4 @@
-## 🐱‍👤 Túlio Thauã Dutra >>
+# *🐱‍👤 Túlio Thauã Dutra >>*
 
 ### **`Futuro Desenvolvedor de Software`**
 
@@ -10,7 +10,7 @@
 
 // **___My portfolio is below – contact me!___**  
 
-<br>
+
 
 <a href="https://tuliothaua.github.io/portfolio-thaua/">
   <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
