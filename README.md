@@ -1,16 +1,20 @@
-# *🐱‍👤 Túlio Thauã Dutra >>*
+<h1 align="center">🐱‍👤 Túlio Thauã Dutra >></h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=18&pause=1000&color=25FF56&repeat=false&width=420&lines=..%5BHello+World%2C+I'm+T%C3%BAlio+Thau%C3%A3+Dutra%5D.." />
+  </a> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&duration=10&pause=10&color=25FF56&background=64646400&width=50&lines=%E2%96%AF" style="opacity:0;" /></a>
+</div>
 
-### **`Futuro Desenvolvedor de Software`**
+<h4 align="center">Future Software Engineer</h4>
 
-#### _Future Software Engineer_
+</div>
 
 ---
 
--   I'm learning programming, I like to make projects and code, and I'm working to turn this into my career!
+<div align="center">
+-   I'm learning programming, I like to make projects and code, and I'm working to turn this into my career! 
 
 // **___My portfolio is below – contact me!___**  
-
-
 
 <a href="https://tuliothaua.github.io/portfolio-thaua/">
   <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
@@ -23,10 +27,13 @@
 <br>
 
 ![tuliothaua's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuliothaua&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact)
+</div>
 
 ---
 
-### Tools & Langs I’ve used
+### 
+
+<div align="center"> <h2>Tools & Langs I’ve used</h2>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,5 +44,7 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
 
 ---
