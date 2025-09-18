@@ -1,28 +1,27 @@
-<h1 align="center">🐱‍👤 Túlio Thauã Dutra >></h1>
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=18&pause=1000&color=25FF56&repeat=false&width=420&lines=..%5BHello+World%2C+I'm+T%C3%BAlio+Thau%C3%A3+Dutra%5D.." />
-  </a> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&duration=10&pause=10&color=25FF56&background=64646400&width=50&lines=%E2%96%AF" style="opacity:0;" /></a>
-</div>
+<h1 align="center">🐱‍👤 Túlio Thauã Dutra 🂡</h1>
 
-<h4 align="center">Future Software Engineer</h4>
-
+<div align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=18&pause=1000&color=25FF56&repeat=false&width=420&lines=..%5BHello+World%2C+I'm+T%C3%BAlio+Thau%C3%A3+Dutra%5D.." />
+ <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&duration=10&pause=10&color=25FF56&background=64646400&width=50&lines=%E2%96%AF" style="opacity:0;" /></a>
+ 
+  <h3><b>⛾ Future Software Engineer ⚿</b><h3>
 </div>
 
 ---
 
-<div align="center">
--   I'm learning programming, I like to make projects and code, and I'm working to turn this into my career! 
+<div align="center" style="text-decoration:none;">
+➡︎ I'm learning programming, I like to make projects and code, and I'm working to turn this into my career! 
 
 // **___My portfolio is below – contact me!___**  
 
-<a href="https://tuliothaua.github.io/portfolio-thaua/">
-  <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://tuliothaua.github.io/portfolio-thaua/">  
+    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=90EE90"/>
+ </a> 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/tuliothauadutra" >
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=90EE90"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/tuliothauadutra">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+
 
 <br>
 
@@ -33,7 +32,7 @@
 
 ### 
 
-<div align="center"> <h2>Tools & Langs I’ve used</h2>
+<div align="center"> <h2>Tools & Langs I’ve used 🃟</h2>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
