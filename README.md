@@ -1,8 +1,8 @@
 <h1 align="center">🐱‍👤 Túlio Thauã Dutra 🂡</h1>
 
 <div align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=18&pause=1000&color=25FF56&repeat=false&width=420&lines=..%5BHello+World%2C+I'm+T%C3%BAlio+Thau%C3%A3+Dutra%5D.." />
- <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&duration=10&pause=10&color=25FF56&background=64646400&width=50&lines=%E2%96%AF" style="opacity:0;" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=18&pause=950&color=25FF56&repeat=false&width=420&lines=..%5BHello+World%2C+I'm+T%C3%BAlio+Thau%C3%A3+Dutra%5D.." />
+ <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=22&duration=1000&pause=500&color=25FF56&background=64646400&width=50&lines=%E2%96%AF" /></a>
  
   <h3><b>⛾ Future Software Engineer ⚿</b><h3>
 </div>
