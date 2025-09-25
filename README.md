@@ -40,6 +40,7 @@
 ![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=orange)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-000000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=red)
 ![MySQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=blue)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=blue)
 ![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)
 
 
