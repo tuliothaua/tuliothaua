@@ -14,11 +14,11 @@
 
 // **___My portfolio is below – contact me!___**  
 
-<a href="https://tuliothaua.github.io/portfolio-thaua/">  
+<a href="https://tuliothaua.github.io/portfolio-thaua/" target="_blank">  
     <img src="https://img.shields.io/badge/github%20pages-000000?style=for-the-badge&logo=github&logoColor=90EE90"/>
  </a>  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.linkedin.com/in/tuliothauadutra" >
+ <a href="https://www.linkedin.com/in/tuliothauadutra" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8"/>
 </a>
 <br>
