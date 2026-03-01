@@ -23,7 +23,8 @@
 </a>
 <br>
 
-![tuliothaua's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuliothaua&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tuliothaua&layout=compact&langs_count=20&theme=chartreuse-dark)
+
 </div>
 
 ---
